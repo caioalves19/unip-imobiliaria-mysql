@@ -11,9 +11,11 @@ O sistema é composto por várias entidades, incluindo:
 - Casa (especialização de Residencial)
 - Sala Comercial (especialização de Imóvel)
 - Terreno (especialização de Imóvel)
-- Foto
 - Cliente
+- Contrato
 - Endereço
+- Bairro
+- Foto
 
 ## Aprendizados
 Durante o desenvolvimento deste projeto, aprendi a:
